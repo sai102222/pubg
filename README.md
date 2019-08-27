@@ -1,1 +1,2 @@
 # pubg
+print("play pubg")
